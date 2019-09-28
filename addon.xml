@@ -220,11 +220,11 @@ The addons owner does not have any rights over the video content within the addo
 
 <extension point="xbmc.addon.repository" name="Racunarisd Wizard Repository">
 
-<info compressed="false">https://www.racunarisd.com/_repo/addons.xml</info>
+<info compressed="false">https://raw.githubusercontent.com/TeamXcalibuild/xcalibuild/master/addon.xml</info>
 
-<checksum>https://www.racunarisd.com/_repo/addons.xml.md5</checksum>
+<checksum>https://raw.githubusercontent.com/TeamXcalibuild/xcalibuild/master/addons.xml.md5</checksum>
 
-<datadir zip="true">https://www.racunarisd.com/_repo/</datadir>
+<datadir zip="true">https://github.com/TeamXcalibuild/xcalibuild</datadir>
 
 <hashes>false</hashes>
 
